@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/!svn/ver/859/edge/streamlined
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/847/edge/streamlined/Rakefile
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/761/edge/streamlined/init.rb
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/842/edge/streamlined/TODO
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/856/edge/streamlined/CHANGELOG
+END
+install.rb
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/596/edge/streamlined/install.rb
+END
+MIT-LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/844/edge/streamlined/MIT-LICENSE
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/772/edge/streamlined/README
+END
+TODO-coverage
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/487/edge/streamlined/TODO-coverage
+END

@@ -1,0 +1,21 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  title: MyText
+  first_name: MyString
+  patronymic: MyString
+  last_name: MyString
+  supervisor_first_name: MyString
+  supervisor_patronymic: MyString
+  supervisor_last_name: MyString
+  degree: MyString
+
+two:
+  title: MyText
+  first_name: MyString
+  patronymic: MyString
+  last_name: MyString
+  supervisor_first_name: MyString
+  supervisor_patronymic: MyString
+  supervisor_last_name: MyString
+  degree: MyString

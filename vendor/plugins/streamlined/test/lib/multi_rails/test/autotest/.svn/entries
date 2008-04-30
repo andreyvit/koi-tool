@@ -1,0 +1,40 @@
+8
+
+dir
+863
+http://svn.streamlinedframework.org/edge/streamlined/test/lib/multi_rails/test/autotest
+http://svn.streamlinedframework.org
+
+
+
+2007-12-14T22:17:01.330422Z
+773
+rob
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4f249914-c612-0410-8deb-f4485a9d85ab
+
+railsplugin.rb
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+154b813bd31116bedc56bd32957ffcf1
+2007-12-14T22:17:01.330422Z
+773
+rob
+

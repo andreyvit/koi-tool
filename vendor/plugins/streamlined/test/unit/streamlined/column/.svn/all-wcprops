@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/858/edge/streamlined/test/unit/streamlined/column
+END
+active_record_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/858/edge/streamlined/test/unit/streamlined/column/active_record_test.rb
+END
+base_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/822/edge/streamlined/test/unit/streamlined/column/base_test.rb
+END
+addition_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/822/edge/streamlined/test/unit/streamlined/column/addition_test.rb
+END
+association_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/825/edge/streamlined/test/unit/streamlined/column/association_test.rb
+END

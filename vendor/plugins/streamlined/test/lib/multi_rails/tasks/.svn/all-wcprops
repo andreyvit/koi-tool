@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/774/edge/streamlined/test/lib/multi_rails/tasks
+END
+multi_rails.rake
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/774/edge/streamlined/test/lib/multi_rails/tasks/multi_rails.rake
+END
+load_multi_rails_rake_tasks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/749/edge/streamlined/test/lib/multi_rails/tasks/load_multi_rails_rake_tasks.rb
+END

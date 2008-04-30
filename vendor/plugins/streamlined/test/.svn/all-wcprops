@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/858/edge/streamlined/test
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/837/edge/streamlined/test/test_helper.rb
+END
+test_functional_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/817/edge/streamlined/test/test_functional_helper.rb
+END
+edge_rails_test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/712/edge/streamlined/test/edge_rails_test_helper.rb
+END

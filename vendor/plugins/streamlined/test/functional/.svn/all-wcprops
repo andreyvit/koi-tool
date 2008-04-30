@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/842/edge/streamlined/test/functional
+END
+association_functional_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/822/edge/streamlined/test/functional/association_functional_test.rb
+END
+active_record_extensions_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/838/edge/streamlined/test/functional/active_record_extensions_test.rb
+END
+meta_functional_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/822/edge/streamlined/test/functional/meta_functional_test.rb
+END
+meta_integration_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/822/edge/streamlined/test/functional/meta_integration_test.rb
+END
+streamlined_functional_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/822/edge/streamlined/test/functional/streamlined_functional_test.rb
+END
+streamlined_controller_functional_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/842/edge/streamlined/test/functional/streamlined_controller_functional_test.rb
+END

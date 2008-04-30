@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/853/edge/streamlined/lib/relevance
+END
+controller_test_support.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/735/edge/streamlined/lib/relevance/controller_test_support.rb
+END
+integration_test_support.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/374/edge/streamlined/lib/relevance/integration_test_support.rb
+END
+method_additions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/632/edge/streamlined/lib/relevance/method_additions.rb
+END
+module_additions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/838/edge/streamlined/lib/relevance/module_additions.rb
+END
+symbol_additions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/608/edge/streamlined/lib/relevance/symbol_additions.rb
+END
+rails_assertions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/423/edge/streamlined/lib/relevance/rails_assertions.rb
+END
+string_additions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/564/edge/streamlined/lib/relevance/string_additions.rb
+END
+module.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/761/edge/streamlined/lib/relevance/module.rb
+END
+hash_init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/828/edge/streamlined/lib/relevance/hash_init.rb
+END
+active_record_extensions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/853/edge/streamlined/lib/relevance/active_record_extensions.rb
+END
+csv.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/722/edge/streamlined/lib/relevance/csv.rb
+END
+macro_reflection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/535/edge/streamlined/lib/relevance/macro_reflection.rb
+END

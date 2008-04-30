@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/854/edge/streamlined/templates/shared
+END
+_footer_partials.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/452/edge/streamlined/templates/shared/_footer_partials.rhtml
+END
+_new_filter.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/584/edge/streamlined/templates/shared/_new_filter.rhtml
+END
+clear_all_filters.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/584/edge/streamlined/templates/shared/clear_all_filters.rjs
+END
+delete_filter.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/584/edge/streamlined/templates/shared/delete_filter.rjs
+END
+update_filter.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/584/edge/streamlined/templates/shared/update_filter.rjs
+END
+_notice.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/854/edge/streamlined/templates/shared/_notice.rhtml
+END
+filter_session_expired.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/584/edge/streamlined/templates/shared/filter_session_expired.rjs
+END
+_filter.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/693/edge/streamlined/templates/shared/_filter.rhtml
+END
+add_filter.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/584/edge/streamlined/templates/shared/add_filter.rjs
+END
+_header_partials.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/452/edge/streamlined/templates/shared/_header_partials.rhtml
+END
+_after_header_partials.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/621/edge/streamlined/templates/shared/_after_header_partials.rhtml
+END

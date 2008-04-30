@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/773/edge/streamlined/test/lib/multi_rails/lib/multi_rails
+END
+multi_rails_error.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/749/edge/streamlined/test/lib/multi_rails/lib/multi_rails/multi_rails_error.rb
+END
+config.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/773/edge/streamlined/test/lib/multi_rails/lib/multi_rails/config.rb
+END
+loader.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/773/edge/streamlined/test/lib/multi_rails/lib/multi_rails/loader.rb
+END
+core_extensions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/749/edge/streamlined/test/lib/multi_rails/lib/multi_rails/core_extensions.rb
+END
+rails_app_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/773/edge/streamlined/test/lib/multi_rails/lib/multi_rails/rails_app_helper.rb
+END

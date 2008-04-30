@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/828/edge/streamlined/test/functional/streamlined/controller
+END
+crud_methods_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/822/edge/streamlined/test/functional/streamlined/controller/crud_methods_test.rb
+END
+render_methods_funtional_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/822/edge/streamlined/test/functional/streamlined/controller/render_methods_funtional_test.rb
+END
+crud_methods_create_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/828/edge/streamlined/test/functional/streamlined/controller/crud_methods_create_test.rb
+END
+relationship_methods_functional_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/822/edge/streamlined/test/functional/streamlined/controller/relationship_methods_functional_test.rb
+END
+enumeration_methods_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/822/edge/streamlined/test/functional/streamlined/controller/enumeration_methods_test.rb
+END
+filter_methods_functional_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/822/edge/streamlined/test/functional/streamlined/controller/filter_methods_functional_test.rb
+END

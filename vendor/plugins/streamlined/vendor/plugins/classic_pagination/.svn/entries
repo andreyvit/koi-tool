@@ -1,0 +1,94 @@
+8
+
+dir
+863
+http://svn.streamlinedframework.org/edge/streamlined/vendor/plugins/classic_pagination
+http://svn.streamlinedframework.org
+
+
+
+2007-10-10T23:25:03.645979Z
+703
+stu
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4f249914-c612-0410-8deb-f4485a9d85ab
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+b14424b71d2f606a775061237c8226f1
+2007-10-10T23:25:03.645979Z
+703
+stu
+
+init.rb
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+181539722e198d92992a94f40310f4fc
+2007-10-10T23:25:03.645979Z
+703
+stu
+
+lib
+dir
+
+CHANGELOG
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+3ef206f381b42341342908fcc0001210
+2007-10-10T23:25:03.645979Z
+703
+stu
+
+install.rb
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+1c88d6bc27aa809cd6ef26543c18b1e6
+2007-10-10T23:25:03.645979Z
+703
+stu
+
+README
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+f1df690ff1ea0da74f8fe161f50722ad
+2007-10-10T23:25:03.645979Z
+703
+stu
+

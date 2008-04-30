@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/838/edge/streamlined/test/fixtures
+END
+poems.yml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/237/edge/streamlined/test/fixtures/poems.yml
+END
+phone_number.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/581/edge/streamlined/test/fixtures/phone_number.rb
+END
+people.yml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/673/edge/streamlined/test/fixtures/people.yml
+END
+authors.yml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/482/edge/streamlined/test/fixtures/authors.yml
+END
+authorship.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/838/edge/streamlined/test/fixtures/authorship.rb
+END
+people_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/728/edge/streamlined/test/fixtures/people_controller.rb
+END
+poets.yml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/237/edge/streamlined/test/fixtures/poets.yml
+END
+authors_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/728/edge/streamlined/test/fixtures/authors_controller.rb
+END
+book.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/482/edge/streamlined/test/fixtures/book.rb
+END
+poets_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/779/edge/streamlined/test/fixtures/poets_controller.rb
+END
+poem_ui.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/728/edge/streamlined/test/fixtures/poem_ui.rb
+END
+author_ui.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/728/edge/streamlined/test/fixtures/author_ui.rb
+END
+poem.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/668/edge/streamlined/test/fixtures/poem.rb
+END
+unconventional.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/727/edge/streamlined/test/fixtures/unconventional.rb
+END
+phone_numbers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/581/edge/streamlined/test/fixtures/phone_numbers.yml
+END
+author.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/486/edge/streamlined/test/fixtures/author.rb
+END
+person_ui.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/728/edge/streamlined/test/fixtures/person_ui.rb
+END
+hobby.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/237/edge/streamlined/test/fixtures/hobby.rb
+END
+articles_ui.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/728/edge/streamlined/test/fixtures/articles_ui.rb
+END
+articles.yml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/482/edge/streamlined/test/fixtures/articles.yml
+END
+person.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/237/edge/streamlined/test/fixtures/person.rb
+END
+articles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/482/edge/streamlined/test/fixtures/articles.rb
+END
+poet.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/787/edge/streamlined/test/fixtures/poet.rb
+END
+articles_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/605/edge/streamlined/test/fixtures/articles_controller.rb
+END
+books.yml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/482/edge/streamlined/test/fixtures/books.yml
+END

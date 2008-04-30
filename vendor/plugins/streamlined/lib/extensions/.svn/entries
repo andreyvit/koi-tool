@@ -1,0 +1,52 @@
+8
+
+dir
+863
+http://svn.streamlinedframework.org/edge/streamlined/lib/extensions
+http://svn.streamlinedframework.org
+
+
+
+2007-11-03T20:10:27.086206Z
+752
+matthew
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4f249914-c612-0410-8deb-f4485a9d85ab
+
+array_conversions.rb
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+1b4b4795cd46269ae764bc46893a71e5
+2007-06-05T12:58:38.468978Z
+476
+matthew
+
+hash_smart_merge.rb
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+616c0920d9369b11835cc10346c9f769
+2007-09-13T18:51:08.271734Z
+671
+matthew
+

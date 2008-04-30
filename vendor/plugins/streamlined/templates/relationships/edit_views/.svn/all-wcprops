@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/669/edge/streamlined/templates/relationships/edit_views
+END
+_membership.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/468/edge/streamlined/templates/relationships/edit_views/_membership.rhtml
+END
+_enumerable_select.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/476/edge/streamlined/templates/relationships/edit_views/_enumerable_select.rhtml
+END
+_select.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/468/edge/streamlined/templates/relationships/edit_views/_select.rhtml
+END
+_polymorphic_membership.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/468/edge/streamlined/templates/relationships/edit_views/_polymorphic_membership.rhtml
+END
+_filter_select.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/468/edge/streamlined/templates/relationships/edit_views/_filter_select.rhtml
+END
+_polymorphic_select.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/468/edge/streamlined/templates/relationships/edit_views/_polymorphic_select.rhtml
+END
+_inset_table.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/669/edge/streamlined/templates/relationships/edit_views/_inset_table.rhtml
+END

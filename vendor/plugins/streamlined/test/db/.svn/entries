@@ -1,0 +1,52 @@
+8
+
+dir
+863
+http://svn.streamlinedframework.org/edge/streamlined/test/db
+http://svn.streamlinedframework.org
+
+
+
+2008-01-27T06:30:01.741934Z
+817
+abedra
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4f249914-c612-0410-8deb-f4485a9d85ab
+
+schema.rb
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+4854bcdbc993800244902caab5ba1110
+2008-01-27T06:30:01.741934Z
+817
+abedra
+
+mysql.sql
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2008-01-27T06:30:01.741934Z
+817
+abedra
+

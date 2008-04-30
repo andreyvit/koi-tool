@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/853/edge/streamlined/test/unit/relevance
+END
+module_additions_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/775/edge/streamlined/test/unit/relevance/module_additions_test.rb
+END
+symbol_additions_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/775/edge/streamlined/test/unit/relevance/symbol_additions_test.rb
+END
+string_additions_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/775/edge/streamlined/test/unit/relevance/string_additions_test.rb
+END
+module_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/775/edge/streamlined/test/unit/relevance/module_test.rb
+END
+hash_init_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/828/edge/streamlined/test/unit/relevance/hash_init_test.rb
+END
+active_record_extensions_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/853/edge/streamlined/test/unit/relevance/active_record_extensions_test.rb
+END
+csv_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/775/edge/streamlined/test/unit/relevance/csv_test.rb
+END

@@ -1,0 +1,49 @@
+8
+
+dir
+863
+http://svn.streamlinedframework.org/edge/streamlined/lib
+http://svn.streamlinedframework.org
+
+
+
+2008-03-24T21:47:45.567002Z
+858
+matthew
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4f249914-c612-0410-8deb-f4485a9d85ab
+
+extensions
+dir
+
+relevance
+dir
+
+streamlined
+dir
+
+streamlined.rb
+file
+
+
+
+
+2008-04-30T03:46:03.000000Z
+9c3997c1e6eaa4f2feec98c967e8edb0
+2008-02-26T03:12:30.006604Z
+840
+stu
+

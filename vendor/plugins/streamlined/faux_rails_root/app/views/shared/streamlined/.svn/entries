@@ -1,0 +1,52 @@
+8
+
+dir
+863
+http://svn.streamlinedframework.org/edge/streamlined/faux_rails_root/app/views/shared/streamlined
+http://svn.streamlinedframework.org
+
+
+
+2007-10-06T14:58:58.111953Z
+693
+matthew
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4f249914-c612-0410-8deb-f4485a9d85ab
+
+_top_menu.rhtml
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+da1ae753c7fd5167376b59d6f6f7c5ec
+2007-10-06T14:58:58.111953Z
+693
+matthew
+
+_side_menu.rhtml
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+49fcbc0b9950c8141929ead50079ba90
+2007-10-06T14:58:58.111953Z
+693
+matthew
+

@@ -1,0 +1,40 @@
+8
+
+dir
+863
+http://svn.streamlinedframework.org/edge/streamlined/config
+http://svn.streamlinedframework.org
+
+
+
+2007-06-28T21:01:03.068521Z
+528
+matthew
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4f249914-c612-0410-8deb-f4485a9d85ab
+
+database_sample.yml
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+15fadd8ca4ad811861e116150432d46a
+2007-06-28T21:01:03.068521Z
+528
+matthew
+

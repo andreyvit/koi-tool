@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/817/edge/streamlined/test/db
+END
+schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/817/edge/streamlined/test/db/schema.rb
+END
+mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/817/edge/streamlined/test/db/mysql.sql
+END

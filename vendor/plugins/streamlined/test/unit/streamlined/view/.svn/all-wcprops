@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/822/edge/streamlined/test/unit/streamlined/view
+END
+render_methods_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/822/edge/streamlined/test/unit/streamlined/view/render_methods_test.rb
+END
+base_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/822/edge/streamlined/test/unit/streamlined/view/base_test.rb
+END
+show_views_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/822/edge/streamlined/test/unit/streamlined/view/show_views_test.rb
+END

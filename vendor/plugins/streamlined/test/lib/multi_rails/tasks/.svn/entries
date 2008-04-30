@@ -1,0 +1,52 @@
+8
+
+dir
+863
+http://svn.streamlinedframework.org/edge/streamlined/test/lib/multi_rails/tasks
+http://svn.streamlinedframework.org
+
+
+
+2007-12-18T15:47:21.183544Z
+774
+rob
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4f249914-c612-0410-8deb-f4485a9d85ab
+
+multi_rails.rake
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+f4ff7fc7a5eb44ae778c65fd5b49e8e2
+2007-12-18T15:47:21.183544Z
+774
+rob
+
+load_multi_rails_rake_tasks.rb
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+898cb8fe515874d0ca16009cf754da3c
+2007-10-30T14:00:49.098073Z
+747
+muness
+

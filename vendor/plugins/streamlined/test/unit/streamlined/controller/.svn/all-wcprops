@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/842/edge/streamlined/test/unit/streamlined/controller
+END
+options_methods_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/822/edge/streamlined/test/unit/streamlined/controller/options_methods_test.rb
+END
+crud_methods_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/834/edge/streamlined/test/unit/streamlined/controller/crud_methods_test.rb
+END
+render_methods_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/822/edge/streamlined/test/unit/streamlined/controller/render_methods_test.rb
+END
+controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/842/edge/streamlined/test/unit/streamlined/controller/controller_test.rb
+END
+relationship_methods_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/822/edge/streamlined/test/unit/streamlined/controller/relationship_methods_test.rb
+END
+db_action_methods_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/822/edge/streamlined/test/unit/streamlined/controller/db_action_methods_test.rb
+END
+quick_add_methods_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/838/edge/streamlined/test/unit/streamlined/controller/quick_add_methods_test.rb
+END

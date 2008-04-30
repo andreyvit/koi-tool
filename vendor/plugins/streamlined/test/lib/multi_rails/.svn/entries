@@ -1,0 +1,124 @@
+8
+
+dir
+863
+http://svn.streamlinedframework.org/edge/streamlined/test/lib/multi_rails
+http://svn.streamlinedframework.org
+
+
+
+2007-12-18T15:47:21.183544Z
+774
+rob
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4f249914-c612-0410-8deb-f4485a9d85ab
+
+test
+dir
+
+History.txt
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+d1d6444bd2a02713517b734ee1419b3e
+2007-12-14T22:17:01.330422Z
+773
+rob
+
+Rakefile
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+c1ae62204d6935ed9b6dbd5c369b3241
+2007-12-14T22:17:01.330422Z
+773
+rob
+
+Manifest.txt
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+a4f392df3d603006ea4d6a66d79a57c3
+2007-12-14T22:17:01.330422Z
+773
+rob
+
+tasks
+dir
+
+lib
+dir
+
+bin
+dir
+
+install.rb
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+d65c6e1e04a5807042cd03832bf1204b
+2007-12-14T22:17:01.330422Z
+773
+rob
+
+MIT-LICENSE
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+8462ffc7c09313c6b8704cfb6c2f1876
+2007-11-03T18:25:59.152709Z
+750
+rob
+
+README.txt
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+6a87c8a677128e37da658c713e2be9b0
+2007-12-14T22:17:01.330422Z
+773
+rob
+
+credits.txt
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+0a1aeae2f186a80233cf373eb32d9c1f
+2007-12-14T22:17:01.330422Z
+773
+rob
+

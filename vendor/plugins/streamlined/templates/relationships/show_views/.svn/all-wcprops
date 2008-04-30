@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/859/edge/streamlined/templates/relationships/show_views
+END
+_list.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/306/edge/streamlined/templates/relationships/show_views/_list.rhtml
+END
+_link.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/306/edge/streamlined/templates/relationships/show_views/_link.rhtml
+END
+_name.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/437/edge/streamlined/templates/relationships/show_views/_name.rhtml
+END
+_graph.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/306/edge/streamlined/templates/relationships/show_views/_graph.rhtml
+END
+_sum.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/418/edge/streamlined/templates/relationships/show_views/_sum.rhtml
+END
+_enumeration.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/859/edge/streamlined/templates/relationships/show_views/_enumeration.rhtml
+END
+_count.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/418/edge/streamlined/templates/relationships/show_views/_count.rhtml
+END
+_average.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/418/edge/streamlined/templates/relationships/show_views/_average.rhtml
+END

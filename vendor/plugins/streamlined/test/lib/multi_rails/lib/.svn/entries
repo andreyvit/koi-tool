@@ -1,0 +1,55 @@
+8
+
+dir
+863
+http://svn.streamlinedframework.org/edge/streamlined/test/lib/multi_rails/lib
+http://svn.streamlinedframework.org
+
+
+
+2007-12-14T22:17:01.330422Z
+773
+rob
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4f249914-c612-0410-8deb-f4485a9d85ab
+
+multi_rails
+dir
+
+multi_rails.rb
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+16bb6d52d79d63fbd076159c9b5a4258
+2007-12-14T22:17:01.330422Z
+773
+rob
+
+multi_rails_init.rb
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+333196bd2d1477009de9ad00754fd405
+2007-10-30T14:00:49.098073Z
+747
+muness
+

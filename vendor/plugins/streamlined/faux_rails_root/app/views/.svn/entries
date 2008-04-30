@@ -1,0 +1,52 @@
+8
+
+dir
+863
+http://svn.streamlinedframework.org/edge/streamlined/faux_rails_root/app/views
+http://svn.streamlinedframework.org
+
+
+
+2008-02-15T21:07:50.227503Z
+831
+stu
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4f249914-c612-0410-8deb-f4485a9d85ab
+
+dont_move_this.txt
+file
+
+
+
+
+2008-04-30T03:46:02.000000Z
+e751d34c51a01114c46e6b22bca667d9
+2007-03-05T00:57:31.380288Z
+245
+stu
+
+layouts
+dir
+
+people
+dir
+
+shared
+dir
+
+templates
+dir
+

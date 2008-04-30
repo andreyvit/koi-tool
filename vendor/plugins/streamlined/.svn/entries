@@ -1,0 +1,157 @@
+8
+
+dir
+863
+http://svn.streamlinedframework.org/edge/streamlined
+http://svn.streamlinedframework.org
+
+
+
+2008-03-28T21:23:22.886115Z
+859
+matthew
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4f249914-c612-0410-8deb-f4485a9d85ab
+
+test
+dir
+
+log
+dir
+
+Rakefile
+file
+
+
+
+
+2008-04-30T03:46:03.000000Z
+b3c03943aa33ff5e3adb9c7e77ed0637
+2008-03-17T03:06:03.860013Z
+847
+matthew
+
+tasks
+dir
+
+CHANGELOG
+file
+
+
+
+
+2008-04-30T03:46:03.000000Z
+8efdc604359787b0fd674dd8ac62e4cd
+2008-03-21T22:06:18.622052Z
+856
+matthew
+
+README
+file
+
+
+
+
+2008-04-30T03:46:03.000000Z
+dbde8913ca55afd30ac5dc07cbbed8f2
+2007-12-07T01:16:19.066732Z
+772
+rob
+
+vendor
+dir
+
+TODO-coverage
+file
+
+
+
+
+2008-04-30T03:46:03.000000Z
+1af530d66cf7c8ec1a9624ee7b9da252
+2007-06-12T12:35:17.688135Z
+487
+stu
+
+templates
+dir
+
+faux_rails_root
+dir
+
+files
+dir
+
+script
+dir
+
+config
+dir
+
+init.rb
+file
+
+
+
+
+2008-04-30T03:46:03.000000Z
+f18f7461a7a05696766132f768f98348
+2007-11-15T21:12:39.691264Z
+761
+stu
+
+TODO
+file
+
+
+
+
+2008-04-30T03:46:03.000000Z
+57c8ec1d9160a30247ce85c1ffc9e982
+2008-02-26T05:23:37.645874Z
+842
+stu
+
+lib
+dir
+
+autotest
+dir
+
+install.rb
+file
+
+
+
+
+2008-04-30T03:46:03.000000Z
+38e0aaa0c5296cda1532bd609e9fbf5a
+2007-07-30T15:46:40.458236Z
+596
+rob
+
+MIT-LICENSE
+file
+
+
+
+
+2008-04-30T03:46:03.000000Z
+4fa57758697b6cfd547a8aabe7420f2d
+2008-02-26T06:19:50.654320Z
+844
+rob
+
